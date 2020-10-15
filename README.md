@@ -2,20 +2,11 @@
 
 ## Description
 
-Implement the game of Mystery Word.
+Mystery Word Game.
 
-## Objectives
+# Details
 
-After completing this assignment, you should be able to:
-
-- Create an interactive program.
-- Read from a file.
-- Choose a random value.
-- Keep track of state.
-
-## Details
-
-## Normal Mode
+### Normal Mode
 
 You will implement the game Mystery Word. In your game, you will be playing
 against the computer.
