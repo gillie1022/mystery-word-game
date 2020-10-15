@@ -6,8 +6,6 @@ Mystery Word Game.
 
 ## Details
 
-### Normal Mode
-
 The flow of the game goes as follows:
 
 1. The user chooses a level of difficulty at the beginning of the program.
